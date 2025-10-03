@@ -8,3 +8,5 @@ pub fn run() {
 
     println!("Command: {}", command);
 }
+
+// Fuck you bitches 
