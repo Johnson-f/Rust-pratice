@@ -1,6 +1,10 @@
-mod functions;
+// mod structs;
+// mod enums;
+mod cli;
 
 fn main() {
    // print::run();
-      functions::run();
+      // structs::run();
+      // enums::run();
+      cli::run();
 }
